@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ravpreet&#39;s Website</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/static-profile/</link>
     <description>Recent content on Ravpreet&#39;s Website</description>
     <generator>Hugo -- 0.146.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 12 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/static-profile/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:1313/static-profile/about/</link>
       <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:1313/static-profile/about/</guid>
       <description>&lt;p&gt;Hello, I&amp;rsquo;m Ravpreet, a passionate cloud &amp;amp; DevOps engineer. I love creating scalable systems, automating workflows, and speaking at tech conferences. I enjoy exploring new technologies and sharing my experiences through blogging and speaking.&lt;/p&gt;
 &lt;p&gt;I’ve worked on several cloud solutions and DevOps pipelines, specializing in AWS, Kubernetes, and CI/CD automation. Let’s connect!&lt;/p&gt;</description>
     </item>
