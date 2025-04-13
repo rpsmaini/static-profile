@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost/about/</loc>
+    <loc>https://rpsmaini.github.io/static-profile/about/</loc>
     <lastmod>2025-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/</loc>
+    <loc>https://rpsmaini.github.io/static-profile/</loc>
     <lastmod>2025-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/categories/</loc>
+    <loc>https://rpsmaini.github.io/static-profile/categories/</loc>
   </url><url>
-    <loc>http://localhost/tags/</loc>
+    <loc>https://rpsmaini.github.io/static-profile/tags/</loc>
   </url>
 </urlset>
