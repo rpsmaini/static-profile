@@ -1,0 +1,44 @@
+baseURL: "http://localhost/"
+title: "Ravpreet's Website"
+theme: "PaperMod"
+languageCode: "en-us"
+
+menu:
+  main:
+    - identifier: about
+      name: About Me
+      url: /about/
+      weight: 1
+    - identifier: blogs
+      name: Blogs
+      url: /posts/
+      weight: 2
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 3
+
+params:
+  homeInfoParams:
+    Title: "Hi, I'm Ravpreet Singh Maini 👋"
+    Content: "Cloud & DevOps Enthusiast. Speaker. Engineer."
+
+  socialIcons:
+    - name: "linkedin"
+      url: "https://linkedin.com/in/rpsmaini"
+    - name: "github"
+      url: "https://github.com/rpsmaini"
+
+  profileMode:
+    enabled: true
+    title: "Ravpreet Singh Maini"
+    subtitle: "Cloud | DevOps | Tech Enthusiast"
+    imageUrl: "images/profile.jpg"
+    imageWidth: 160
+    imageHeight: 160
+    imageTitle: "My profile picture"
+    buttons:
+      - name: "Download Resume"
+        url: "ravpreet_resume_cv.pdf"
+      - name: "Mail"
+        url: "mailto:rrpsmaini@yahoo.com"
