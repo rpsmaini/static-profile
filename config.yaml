@@ -1,3 +1,4 @@
+publishDir: "docs"
 baseURL: "https://rpsmaini.github.io/static-profile/"
 title: "Ravpreet's Website"
 theme: "PaperMod"
