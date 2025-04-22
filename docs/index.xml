@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ravpreet&#39;s Website</title>
-    <link>https://rpsmaini.github.io/static-profile/</link>
+    <link>http://localhost:1313/static-profile/</link>
     <description>Recent content on Ravpreet&#39;s Website</description>
     <generator>Hugo -- 0.146.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 12 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://rpsmaini.github.io/static-profile/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/static-profile/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>https://rpsmaini.github.io/static-profile/about/</link>
+      <link>http://localhost:1313/static-profile/about/</link>
       <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://rpsmaini.github.io/static-profile/about/</guid>
+      <guid>http://localhost:1313/static-profile/about/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a Cloud and DevOps enthusiast with a passion for learning and building scalable infrastructure. With over a year of experience in the IT industry, I’ve worked on diverse roles and frequently collaborate at my local community meetups like PyDelhi, AWS Community Days Delhi User Group, FOSS United Delhi Chapter.&lt;/p&gt;
 &lt;p&gt;When I’m not scripting automation workflows or deploying apps to the cloud, I’m usually collaborating with others sharing practical DevOps tips, blogging University experiences or try using newly realesed open-source projects. I love blending tech storytelling with hands-on demos.&lt;/p&gt;</description>
     </item>
