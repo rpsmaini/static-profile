@@ -8,18 +8,18 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/static-profile/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to be be productive in Tech meetups</title>
+      <title>Blog</title>
+      <link>http://localhost:1313/static-profile/blog/blog_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/static-profile/blog/blog_1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blog</title>
       <link>http://localhost:1313/static-profile/blog/blog_2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/static-profile/blog/blog_2/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>Tech Community gatherings a Real Deal or a Facade</title>
-      <link>http://localhost:1313/static-profile/blog/blog_1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/static-profile/blog/blog_1/</guid>
-      <description>&lt;p&gt;Tech Community gatherings&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
