@@ -28,6 +28,8 @@ params:
       url: "https://linkedin.com/in/rpsmaini"
     - name: "github"
       url: "https://github.com/rpsmaini"
+    - name: "twitter"
+      url: "https://x.com/MainiRavpreet" # added twitter handle not tested
 
   profileMode:
     enabled: true

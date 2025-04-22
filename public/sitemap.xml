@@ -8,7 +8,11 @@
     <loc>http://localhost:1313/static-profile/</loc>
     <lastmod>2025-04-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/static-profile/blog/blog_2/</loc>
+  </url><url>
     <loc>http://localhost:1313/static-profile/blog/</loc>
+  </url><url>
+    <loc>http://localhost:1313/static-profile/blog/blog_1/</loc>
   </url><url>
     <loc>http://localhost:1313/static-profile/categories/</loc>
   </url><url>

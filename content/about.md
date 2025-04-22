@@ -4,6 +4,8 @@ date: 2025-04-12
 draft: false
 ---
 
-Hello, I'm Ravpreet, a passionate cloud & DevOps engineer. I love creating scalable systems, automating workflows, and speaking at tech conferences. I enjoy exploring new technologies and sharing my experiences through blogging and speaking.
+I'm a Cloud and DevOps enthusiast with a passion for learning and building scalable infrastructure. With over a year of experience in the IT industry, I’ve worked on diverse roles and frequently collaborate at my local community meetups like PyDelhi, AWS Community Days Delhi User Group, FOSS United Delhi Chapter.
 
-I’ve worked on several cloud solutions and DevOps pipelines, specializing in AWS, Kubernetes, and CI/CD automation. Let’s connect!
+When I’m not scripting automation workflows or deploying apps to the cloud, I’m usually collaborating with others sharing practical DevOps tips, blogging University experiences or try using newly realesed open-source projects. I love blending tech storytelling with hands-on demos.
+
+Let’s connect and build something impactful together!
